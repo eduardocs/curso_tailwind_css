@@ -1,0 +1,69 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+div.masthead {
+  position: relative;
+  background-color: #a00000;
+  color: #d0d0d0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+div.masthead h1 {
+  font-size: 2rem;
+  letter-spacing: 0.1rem;
+  text-shadow: 2px 3px 8px rgba(0, 0, 0, 0.75);
+}
+
+@media (min-width: 768px) {
+  div.masthead h1 {
+    letter-spacing: 0.2rem;
+  }
+}
+
+.mypad {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.icon{
+  vertical-align: middle;
+  height:50px; 
+  width:50px;
+  filter:none;
+}
+
+footer.footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+
+
+
+/*
+     FILE ARCHIVED ON 11:28:14 Aug 31, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:45:33 Nov 27, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.465
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.009
+  esindex: 0.009
+  cdx.remote: 26.162
+  LoadShardBlock: 257.382 (3)
+  PetaboxLoader3.datanode: 255.332 (4)
+  load_resource: 114.167
+  PetaboxLoader3.resolve: 51.655
+*/
